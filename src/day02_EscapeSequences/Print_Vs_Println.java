@@ -1,6 +1,6 @@
 package day02_EscapeSequences;
 
-public class PrintVSPrintln {
+public class Print_Vs_Println {
     public static void main(String[] args) {
 
         System.out.println("Hello everyone!");
